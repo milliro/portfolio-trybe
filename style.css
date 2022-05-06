@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: sans-serif;
-  color: #D1F4FF;
+  color: #E5FAFF;
 }
 
 body {
@@ -17,7 +17,18 @@ ul {
   list-style: none;
 }
 
-#meu_nome {
-  font-weight: 600;
+.description {
   font-family: cursive;
+}
+
+.html {
+  font-size: 1.2rem;
+}
+
+.css {
+  font-size: 1.8rem;
+}
+
+.js strong{
+  font-size: 2rem;
 }
